@@ -1,2 +1,0 @@
-# Daduku
-Game dice
